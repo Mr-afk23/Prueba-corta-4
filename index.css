@@ -1,0 +1,66 @@
+
+
+.divpadre {
+ display: flex;
+align-items: center;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.div {
+    height: 50px;
+    width: 150px;
+ background-color: rgb(128, 128, 128);
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.div2 {
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+    border-radius: 100%;
+    
+}
+
+.div3 {
+    height: 300px;
+    width: 350px;
+    background-color: gray;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+.div4 {
+    height: 150px;
+    width: 320px;
+    background-color: pink;
+   padding: 10px;
+   margin: 5px;
+ }
+
+ .boton{
+    width: 100%;
+    border: 1px solid  #080b0f;
+    padding: 10px;
+    margin-top: 25px;
+
+    font-size: 16px;
+    color:  #010102;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.imagen1 {
+    height: 140px;
+}
+
+.imagen2 {
+    width: 300px;
+}

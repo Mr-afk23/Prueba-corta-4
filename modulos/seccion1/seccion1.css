@@ -1,0 +1,30 @@
+.body1 {
+    width: 400px;
+    margin: auto;
+}
+
+.divpadre {
+    display: flex;
+   align-items: center;
+   flex-direction: row;
+   justify-content: space-between;
+ 
+   
+   }
+   
+   .div {
+       height: 50px;
+       width: 150px;
+    background-color: rgb(128, 128, 128);
+     justify-content: space-between;
+     align-items: center;
+     display: flex;
+   }
+   
+   .div2 {
+       height: 50px;
+       width: 50px;
+       background-color: gray;
+       border-radius: 100%;
+       
+   }
